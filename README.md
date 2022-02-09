@@ -16,5 +16,3 @@ https://madina-dauletqyzy.github.io/gallery-pro/
 https://madina-dauletqyzy.github.io/Tin-TV/ 
 
 https://madina-dauletqyzy.github.io/phototime/
-
-https://safe-cove-14159.herokuapp.com
