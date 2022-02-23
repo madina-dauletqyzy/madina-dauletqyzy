@@ -20,3 +20,5 @@ https://madina-dauletqyzy.github.io/phototime/
 https://todolist-app-madina.herokuapp.com
 
 https://sign-up-project-madina.herokuapp.com
+
+https://web-blog-website-madina.herokuapp.com
